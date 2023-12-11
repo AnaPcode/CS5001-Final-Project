@@ -23,7 +23,9 @@ Highlight some key features of this project that you want to show off/talk about
 ## Guide
 How do we run your project? What should we do to see it in action? - Note this isn't installing, this is actual use of the project.. If it is a website, you can point towards the gui, use screenshots, etc talking about features. 
 
-Download to_do_app.py and run the file. 
+Example run of the project can be watched at https://youtu.be/8yNreIvFSlc
+
+First, download to_do_app.py and run the file.
 A user interface will appear. At the first run of this app, no tasks have been entered and therefore using the drop down menu to select whether to view "All tasks", "Completed Tasks", or "Tasks To Do" and clicking "Click to View Tasks" will not display anything.
 To enter a task, type into the text box next to "Enter task:", the task to be entered. Then when done, click "Click here to Add Task". More tasks can be entered in this same way. Note if user presses "Click here to Add Task" and the text box is empty "", then no task is added.
 To view the tasks just entered, choose from the drop down menu which tasks to be seen and then press "Click to View Tasks". Buttons with the name of each task will appear. When clicking the button, a popup appears containing three buttons: "Mark as Complete", "Task Information", and "Delete Task". 
