@@ -17,7 +17,7 @@ General overview of the project, what you did, why you did it, etc.
 Highlight some key features of this project that you want to show off/talk about/focus on. 
 
 A key feature of this project is the utilization of the database SQLite3 as to be able to store tasks and edit information from the GUI interface.
-The user can also choose to display tasks in three ways: Display Tasks To Do, Completed Tasks, and All Tasks
+The user can also choose to display tasks in three ways: Display Tasks To Do, Completed Tasks, and All Tasks.
 Another added feature is when creating a task, the date is recorded, and when a task is marked complete, the completation date is recorded.
 
 ## Guide
@@ -52,7 +52,7 @@ Key aspects could include pieces that your struggled on and/or pieces that you a
 ## Example Runs
 Explain how you documented running the project, and what we need to look for in your repository (text output from the project, small videos, links to videos on youtube of you running it, etc)
 
-A link to a video.
+Link to video showing a project run: https://youtu.be/8yNreIvFSlc
 
 ## Testing
 How did you test your code? What did you do to make sure your code was correct? If you wrote unit tests, you can link to them here. If you did run tests, make sure you document them as text files, and include them in your submission. 
