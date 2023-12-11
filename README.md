@@ -16,9 +16,9 @@ General overview of the project, what you did, why you did it, etc.
 ## Key Features
 Highlight some key features of this project that you want to show off/talk about/focus on. 
 
-A key feature of this project is the utilization of the database SQLite3 as to be able to store tasks and edit information from the GUI interface.
-The user can also choose to display tasks in three ways: Display Tasks To Do, Completed Tasks, and All Tasks.
-Another added feature is when creating a task, the date is recorded, and when a task is marked complete, the completation date is recorded.
+- A key feature of this project is the utilization of the database SQLite3 as to be able to store tasks and edit information from the GUI interface.
+- The user can also choose to display tasks in three ways: Display Tasks To Do, Completed Tasks, and All Tasks.
+- Another added feature is when creating a task, the date is recorded, and when a task is marked complete, the completion date is recorded.
 
 ## Guide
 How do we run your project? What should we do to see it in action? - Note this isn't installing, this is actual use of the project.. If it is a website, you can point towards the gui, use screenshots, etc talking about features. 
