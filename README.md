@@ -11,7 +11,7 @@
 General overview of the project, what you did, why you did it, etc. 
 
   This project is a to do app GUI that keeps track of tasks. I created the GUI using Tkinter where a user can enter and delete tasks. Furthermore, the tasks and changes will be saved in the SQLite database and therefore this project to do app will be able to access the updated list of tasks at each run.
-  I chose this project as I was interested in learning how to build a user interface and believed using Tkinter will both help me practice programming in Python as well as introduce me to creating GUIs.
+  I chose this project as I was interested in learning how to build a user interface and believed using Tkinter will both help me practice programming in Python as well as introduce me to creating GUIs. I was able to build the GUI through learning about tkinter from watching the youtube video by freeCodeCamp (https://www.youtube.com/watch?v=YXPyB4XeYLA) and applying the concepts learned from the video.
 
 ## Key Features
 Highlight some key features of this project that you want to show off/talk about/focus on. 
@@ -64,7 +64,7 @@ How did you test your code? What did you do to make sure your code was correct? 
 ## Missing Features / What's Next
 Focus on what you didn't get to do, and what you would do if you had more time, or things you would implement in the future. 
 
-- Fix bug of when task is completed, mark complete buttons still work. No changes to database however I think better to disable those buttons as it still runs the action.
+- Fix bug of when task is completed, mark complete buttons still work. No changes to database however I think better to disable those buttons.
 - A vertical scrolling bar within the frame that holds the task buttons. As the list of tasks increases, the GUI will currently not be able to show all the task buttons and hence will limit the utility of the app for there would be tasks that are unreachable unless the current viewable tasks are deleted to make space. Viewing online resources, it appears tkinter Canvas() widget can be used to accomplish this.
 - I think rather than having the “Click to View Tasks” button and clicking it after choosing an option in the drop down menu or to just refresh a change made to in the database, I think I’d like to try to change it to where there is no “Click to View Tasks” button and instead what’s chosen in the drop down menu will automatically show as well as when any changes in database made that the tasks list buttons shown will be refreshed automatically.
 - Allow users to specify a .db file to use. Currently, the code specifies a .db file. If the file is not found in the same directory as the app code, then it will create the file with the already provided name and for all subsequent uses of the app, it will update this file. However if a .db file with the same name specified in the code existed before running of this app, there likely will be an error. This could be prevented if the user specifies a new .db file to use.
